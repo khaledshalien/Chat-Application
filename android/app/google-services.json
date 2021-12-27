@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531588206288",
+    "project_id": "chat-app-fa895",
+    "storage_bucket": "chat-app-fa895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531588206288:android:4a3c359e794cea123558d5",
+        "android_client_info": {
+          "package_name": "com.khaled.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531588206288-5be2j76hhpsjffvu5irc3ibtujdobhh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyt5_BayRIzCatdQlkwH_TQvg7ByRgNyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531588206288-5be2j76hhpsjffvu5irc3ibtujdobhh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
